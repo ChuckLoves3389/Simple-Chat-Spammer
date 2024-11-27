@@ -9,6 +9,6 @@ You need to paste your API ID and HASH ID on 7,8 lines, you can get it at my.tel
 U have to send in victims chat .spam interval, message, how much to send
 
 # Error
-you cant use ',' in spam, but you can fix it urself, sorry
+you cant use ',' in message, but you can fix it urself, sorry
 
 goodbye 
